@@ -81,7 +81,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: controlCR
+StartChar: uni000D
 Encoding: 13 13 1
 Width: 315
 Flags: W
@@ -135,7 +135,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: numbersign
+StartChar: u16B5D
 Encoding: 93021 93021 5
 Width: 528
 Flags: W
@@ -190,7 +190,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dollar
+StartChar: u16B5E
 Encoding: 93022 93022 6
 Width: 517
 Flags: W
@@ -243,7 +243,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: percent
+StartChar: u16B5F
 Encoding: 93023 93023 7
 Width: 509
 Flags: W
@@ -270,7 +270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ampersand
+StartChar: u16B61
 Encoding: 93025 93025 8
 Width: 653
 Flags: W
@@ -356,7 +356,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asterisk
+StartChar: bar
 Encoding: 124 124 12
 Width: 201
 Flags: W
@@ -1185,7 +1185,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: at
+StartChar: u16B5C
 Encoding: 93020 93020 34
 Width: 510
 Flags: W
@@ -1232,7 +1232,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: A
+StartChar: u16B07
 Encoding: 92935 92935 35
 Width: 610
 Flags: W
@@ -1256,7 +1256,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: B
+StartChar: u16B3F
 Encoding: 92991 92991 36
 Width: 372
 Flags: W
@@ -1275,7 +1275,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: C
+StartChar: u16B11
 Encoding: 92945 92945 37
 Width: 595
 Flags: W
@@ -1304,7 +1304,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: D
+StartChar: u16B13
 Encoding: 92947 92947 38
 Width: 609
 Flags: W
@@ -1353,7 +1353,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: E
+StartChar: u16B0B
 Encoding: 92939 92939 39
 Width: 696
 Flags: W
@@ -1410,7 +1410,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: F
+StartChar: u16B01
 Encoding: 92929 92929 40
 Width: 637
 Flags: W
@@ -1437,7 +1437,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: G
+StartChar: u16B31
 Encoding: 92977 92977 41
 Width: 8
 Flags: W
@@ -1452,7 +1452,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: H
+StartChar: u16B35
 Encoding: 92981 92981 42
 Width: 10
 Flags: HW
@@ -1472,7 +1472,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: I
+StartChar: u16B2F
 Encoding: 92975 92975 43
 Width: 595
 Flags: W
@@ -1496,7 +1496,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: J
+StartChar: u16B1F
 Encoding: 92959 92959 44
 Width: 614
 Flags: W
@@ -1527,7 +1527,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: K
+StartChar: u16B23
 Encoding: 92963 92963 45
 Width: 595
 Flags: W
@@ -1557,7 +1557,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: L
+StartChar: u16B29
 Encoding: 92969 92969 46
 Width: 681
 Flags: W
@@ -1599,7 +1599,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: M
+StartChar: u16B2B
 Encoding: 92971 92971 47
 Width: 652
 Flags: W
@@ -1625,7 +1625,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: N
+StartChar: u16B27
 Encoding: 92967 92967 48
 Width: 595
 Flags: W
@@ -1673,7 +1673,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: O
+StartChar: u16B1C
 Encoding: 92956 92956 49
 Width: 595
 Flags: W
@@ -1731,7 +1731,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: P
+StartChar: u16B2D
 Encoding: 92973 92973 50
 Width: 595
 Flags: W
@@ -1769,7 +1769,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Q
+StartChar: u16B05
 Encoding: 92933 92933 51
 Width: 655
 Flags: W
@@ -1825,7 +1825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: R
+StartChar: u16B15
 Encoding: 92949 92949 52
 Width: 630
 Flags: W
@@ -1859,7 +1859,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: S
+StartChar: u16B0F
 Encoding: 92943 92943 53
 Width: 595
 Flags: W
@@ -1896,7 +1896,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: T
+StartChar: u16B03
 Encoding: 92931 92931 54
 Width: 648
 Flags: W
@@ -1940,7 +1940,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U
+StartChar: u16B2C
 Encoding: 92972 92972 55
 Width: 595
 Flags: W
@@ -1975,7 +1975,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: V
+StartChar: u16B19
 Encoding: 92953 92953 56
 Width: 607
 Flags: W
@@ -2007,7 +2007,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: W
+StartChar: u16B0D
 Encoding: 92941 92941 57
 Width: 595
 Flags: W
@@ -2044,7 +2044,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: X
+StartChar: u16B09
 Encoding: 92937 92937 58
 Width: 595
 Flags: W
@@ -2075,7 +2075,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Y
+StartChar: u16B28
 Encoding: 92968 92968 59
 Width: 596
 Flags: W
@@ -2119,7 +2119,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Z
+StartChar: u16B17
 Encoding: 92951 92951 60
 Width: 592
 Flags: W
@@ -2178,7 +2178,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: backslash
+StartChar: u16B42
 Encoding: 92994 92994 62
 Width: 576
 Flags: W
@@ -2230,7 +2230,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asciicircum
+StartChar: u16B60
 Encoding: 93024 93024 64
 Width: 507
 Flags: W
@@ -2274,7 +2274,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: grave
+StartChar: u16B3E
 Encoding: 92990 92990 66
 Width: 314
 Flags: W
@@ -2301,7 +2301,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a
+StartChar: u16B06
 Encoding: 92934 92934 67
 Width: 595
 Flags: W
@@ -2339,7 +2339,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: b
+StartChar: u16B32
 Encoding: 92978 92978 68
 Width: 13
 Flags: HW
@@ -2355,7 +2355,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: c
+StartChar: u16B10
 Encoding: 92944 92944 69
 Width: 595
 Flags: W
@@ -2393,7 +2393,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: d
+StartChar: u16B12
 Encoding: 92946 92946 70
 Width: 595
 Flags: W
@@ -2446,7 +2446,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: e
+StartChar: u16B0A
 Encoding: 92938 92938 71
 Width: 595
 Flags: W
@@ -2476,7 +2476,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: f
+StartChar: u16B00
 Encoding: 92928 92928 72
 Width: 629
 Flags: W
@@ -2504,7 +2504,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: g
+StartChar: u16B36
 Encoding: 92982 92982 73
 Width: 20
 Flags: W
@@ -2525,7 +2525,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: h
+StartChar: u16B30
 Encoding: 92976 92976 74
 Width: 34
 Flags: HW
@@ -2541,7 +2541,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: i
+StartChar: u16B2E
 Encoding: 92974 92974 75
 Width: 595
 Flags: W
@@ -2565,7 +2565,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: j
+StartChar: u16B1E
 Encoding: 92958 92958 76
 Width: 595
 Flags: W
@@ -2603,7 +2603,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: k
+StartChar: u16B1D
 Encoding: 92957 92957 77
 Width: 595
 Flags: W
@@ -2627,7 +2627,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: l
+StartChar: u16B22
 Encoding: 92962 92962 78
 Width: 638
 Flags: W
@@ -2651,7 +2651,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: m
+StartChar: u16B2A
 Encoding: 92970 92970 79
 Width: 652
 Flags: W
@@ -2680,7 +2680,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: n
+StartChar: u16B26
 Encoding: 92966 92966 80
 Width: 595
 Flags: W
@@ -2719,7 +2719,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: o
+StartChar: u16B25
 Encoding: 92965 92965 81
 Width: 595
 Flags: W
@@ -2743,7 +2743,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: p
+StartChar: u16B20
 Encoding: 92960 92960 82
 Width: 613
 Flags: W
@@ -2782,7 +2782,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: q
+StartChar: u16B04
 Encoding: 92932 92932 83
 Width: 595
 Flags: W
@@ -2826,7 +2826,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: r
+StartChar: u16B14
 Encoding: 92948 92948 84
 Width: 709
 Flags: W
@@ -2858,7 +2858,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: s
+StartChar: u16B0E
 Encoding: 92942 92942 85
 Width: 635
 Flags: W
@@ -2889,7 +2889,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: t
+StartChar: u16B02
 Encoding: 92930 92930 86
 Width: 651
 Flags: W
@@ -2919,7 +2919,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u
+StartChar: u16B21
 Encoding: 92961 92961 87
 Width: 595
 Flags: W
@@ -2957,7 +2957,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: v
+StartChar: u16B18
 Encoding: 92952 92952 88
 Width: 595
 Flags: W
@@ -3002,7 +3002,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: w
+StartChar: u16B0C
 Encoding: 92940 92940 89
 Width: 595
 Flags: W
@@ -3030,7 +3030,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: x
+StartChar: u16B08
 Encoding: 92936 92936 90
 Width: 623
 Flags: W
@@ -3074,7 +3074,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: y
+StartChar: u16B24
 Encoding: 92964 92964 91
 Width: 694
 Flags: W
@@ -3114,7 +3114,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: z
+StartChar: u16B16
 Encoding: 92950 92950 92
 Width: 598
 Flags: W
@@ -3198,7 +3198,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bar
+StartChar: degree
 Encoding: 176 176 94
 Width: 274
 Flags: W
@@ -3265,7 +3265,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asciitilde
+StartChar: u16B3D
 Encoding: 92989 92989 96
 Width: 307
 Flags: W
@@ -3284,14 +3284,14 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nonbreakingspace
+StartChar: uni00A0
 Encoding: 160 160 97
 Width: 315
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: plusminus
+StartChar: u16B3C
 Encoding: 92988 92988 98
 Width: 348
 Flags: W
@@ -3319,7 +3319,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Agrave
+StartChar: u16B51
 Encoding: 93009 93009 99
 Width: 522
 Flags: W
@@ -3342,7 +3342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Aacute
+StartChar: u16B52
 Encoding: 93010 93010 100
 Width: 541
 Flags: W
@@ -3396,7 +3396,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Acircumflex
+StartChar: u16B53
 Encoding: 93011 93011 101
 Width: 507
 Flags: W
@@ -3440,7 +3440,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Atilde
+StartChar: u16B54
 Encoding: 93012 93012 102
 Width: 596
 Flags: W
@@ -3493,7 +3493,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Adieresis
+StartChar: u16B55
 Encoding: 93013 93013 103
 Width: 513
 Flags: W
@@ -3549,7 +3549,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Aring
+StartChar: u16B56
 Encoding: 93014 93014 104
 Width: 549
 Flags: W
@@ -3585,7 +3585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: AE
+StartChar: u16B57
 Encoding: 93015 93015 105
 Width: 550
 Flags: W
@@ -3618,7 +3618,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Ccedilla
+StartChar: u16B58
 Encoding: 93016 93016 106
 Width: 546
 Flags: W
@@ -3652,7 +3652,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Egrave
+StartChar: u16B59
 Encoding: 93017 93017 107
 Width: 522
 Flags: W
@@ -3718,7 +3718,7 @@ LayerCount: 2
 Fore
 Refer: 92 92950 N 1 0 0 1 160 0 2
 Refer: 109 93019 N 1 0 0 1 0 5 2
-MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B z
+MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B u16B16
 EndChar
 
 StartChar: u16B1B
@@ -3729,7 +3729,7 @@ LayerCount: 2
 Fore
 Refer: 60 92951 N 1 0 0 1 157 0 2
 Refer: 109 93019 N 1 0 0 1 0 6 2
-MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B Z
+MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B u16B17
 EndChar
 EndChars
 EndSplineFont
