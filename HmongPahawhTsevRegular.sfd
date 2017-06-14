@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1495419367
-ModificationTime: 1497396336
+ModificationTime: 1497480979
 PfmFamily: 81
 TTFWeight: 500
 TTFWidth: 5
@@ -57,6 +57,9 @@ OS2XHeight: 581
 OS2Vendor: 'XXXX'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
+Lookup: 2 0 0 "'ccmp' kaab and kaav" { "'ccmp' kaab and kaav-1"  } ['ccmp' ('DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' above" { "'mark' above-1"  } ['mark' ('DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "1.008;HmongPahawhTsevRegular" "" "Version 1.008;Fontself Maker 1.1.1" "" " " "Hmoob Vaj Loog Vooj Vuab" "Nou Chee Her" " " "http://www.pahawh.org" "http://www.pahawh.org" "SIL OPEN FONT LICENSE Version 1.1" "http://theleagueof.github.io/licenses/" "" "Hmong Pahawh Tsev" "Regular" "Hmong Pahawh Tsev" "diH Whoh. aL DhU VbU Tbkh Dbj ZgU XbI RhI xmH Abn QgNH X."
 Encoding: UnicodeFull
@@ -65,7 +68,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 92928 16 10
+WinInfo: 92928 16 8
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "above" "'mark' above-1"
 BeginChars: 1114112 113
 
 StartChar: .notdef
@@ -1230,6 +1236,7 @@ StartChar: A
 Encoding: 92935 92935 35
 Width: 610
 Flags: W
+AnchorPoint: "above" 240.67 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1272,6 +1279,7 @@ StartChar: C
 Encoding: 92945 92945 37
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1300,6 +1308,7 @@ StartChar: D
 Encoding: 92947 92947 38
 Width: 609
 Flags: W
+AnchorPoint: "above" 273.59 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1348,6 +1357,7 @@ StartChar: E
 Encoding: 92939 92939 39
 Width: 696
 Flags: W
+AnchorPoint: "above" 375.47 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1404,6 +1414,7 @@ StartChar: F
 Encoding: 92929 92929 40
 Width: 637
 Flags: W
+AnchorPoint: "above" 276.55 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1430,6 +1441,7 @@ StartChar: G
 Encoding: 92977 92977 41
 Width: 8
 Flags: W
+AnchorPoint: "above" -339.62 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1444,6 +1456,7 @@ StartChar: H
 Encoding: 92981 92981 42
 Width: 10
 Flags: HW
+AnchorPoint: "above" -355.53 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1463,6 +1476,7 @@ StartChar: I
 Encoding: 92975 92975 43
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.55 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1486,6 +1500,7 @@ StartChar: J
 Encoding: 92959 92959 44
 Width: 614
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1516,6 +1531,7 @@ StartChar: K
 Encoding: 92963 92963 45
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1545,6 +1561,7 @@ StartChar: L
 Encoding: 92969 92969 46
 Width: 681
 Flags: W
+AnchorPoint: "above" 305.51 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1586,6 +1603,7 @@ StartChar: M
 Encoding: 92971 92971 47
 Width: 652
 Flags: W
+AnchorPoint: "above" 290.83 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1611,6 +1629,7 @@ StartChar: N
 Encoding: 92967 92967 48
 Width: 595
 Flags: W
+AnchorPoint: "above" 273.59 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1658,6 +1677,7 @@ StartChar: O
 Encoding: 92956 92956 49
 Width: 595
 Flags: W
+AnchorPoint: "above" 232.07 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1715,6 +1735,7 @@ StartChar: P
 Encoding: 92973 92973 50
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1752,6 +1773,7 @@ StartChar: Q
 Encoding: 92933 92933 51
 Width: 655
 Flags: W
+AnchorPoint: "above" 261.98 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1807,6 +1829,7 @@ StartChar: R
 Encoding: 92949 92949 52
 Width: 630
 Flags: W
+AnchorPoint: "above" 297.23 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1840,6 +1863,7 @@ StartChar: S
 Encoding: 92943 92943 53
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1876,6 +1900,7 @@ StartChar: T
 Encoding: 92931 92931 54
 Width: 648
 Flags: W
+AnchorPoint: "above" 302.02 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1919,6 +1944,7 @@ StartChar: U
 Encoding: 92972 92972 55
 Width: 595
 Flags: W
+AnchorPoint: "above" 200 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1953,6 +1979,7 @@ StartChar: V
 Encoding: 92953 92953 56
 Width: 607
 Flags: W
+AnchorPoint: "above" 279 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1984,6 +2011,7 @@ StartChar: W
 Encoding: 92941 92941 57
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2020,6 +2048,7 @@ StartChar: X
 Encoding: 92937 92937 58
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2050,6 +2079,7 @@ StartChar: Y
 Encoding: 92968 92968 59
 Width: 596
 Flags: W
+AnchorPoint: "above" 261.95 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2093,6 +2123,7 @@ StartChar: Z
 Encoding: 92951 92951 60
 Width: 592
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2274,6 +2305,7 @@ StartChar: a
 Encoding: 92934 92934 67
 Width: 595
 Flags: W
+AnchorPoint: "above" 258.51 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2310,7 +2342,8 @@ EndChar
 StartChar: b
 Encoding: 92978 92978 68
 Width: 13
-Flags: W
+Flags: HW
+AnchorPoint: "above" -353.91 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2326,6 +2359,7 @@ StartChar: c
 Encoding: 92944 92944 69
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2363,6 +2397,7 @@ StartChar: d
 Encoding: 92946 92946 70
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2415,6 +2450,7 @@ StartChar: e
 Encoding: 92938 92938 71
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2444,6 +2480,7 @@ StartChar: f
 Encoding: 92928 92928 72
 Width: 629
 Flags: W
+AnchorPoint: "above" 286.06 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2471,6 +2508,7 @@ StartChar: g
 Encoding: 92982 92982 73
 Width: 20
 Flags: W
+AnchorPoint: "above" -335.85 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2490,7 +2528,8 @@ EndChar
 StartChar: h
 Encoding: 92976 92976 74
 Width: 34
-Flags: W
+Flags: HW
+AnchorPoint: "above" -357.68 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2506,6 +2545,7 @@ StartChar: i
 Encoding: 92974 92974 75
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.55 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2529,6 +2569,7 @@ StartChar: j
 Encoding: 92958 92958 76
 Width: 595
 Flags: W
+AnchorPoint: "above" 258.51 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2566,6 +2607,7 @@ StartChar: k
 Encoding: 92957 92957 77
 Width: 595
 Flags: W
+AnchorPoint: "above" 233 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2589,6 +2631,7 @@ StartChar: l
 Encoding: 92962 92962 78
 Width: 638
 Flags: W
+AnchorPoint: "above" 327.52 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2612,6 +2655,7 @@ StartChar: m
 Encoding: 92970 92970 79
 Width: 652
 Flags: W
+AnchorPoint: "above" 291.61 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2640,6 +2684,7 @@ StartChar: n
 Encoding: 92966 92966 80
 Width: 595
 Flags: W
+AnchorPoint: "above" 255.88 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2678,6 +2723,7 @@ StartChar: o
 Encoding: 92965 92965 81
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2701,6 +2747,7 @@ StartChar: p
 Encoding: 92960 92960 82
 Width: 613
 Flags: W
+AnchorPoint: "above" 196 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2739,6 +2786,7 @@ StartChar: q
 Encoding: 92932 92932 83
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.24 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2782,6 +2830,7 @@ StartChar: r
 Encoding: 92948 92948 84
 Width: 709
 Flags: W
+AnchorPoint: "above" 347.84 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2813,6 +2862,7 @@ StartChar: s
 Encoding: 92942 92942 85
 Width: 635
 Flags: W
+AnchorPoint: "above" 276.6 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2843,6 +2893,7 @@ StartChar: t
 Encoding: 92930 92930 86
 Width: 651
 Flags: W
+AnchorPoint: "above" 303.54 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2872,6 +2923,7 @@ StartChar: u
 Encoding: 92961 92961 87
 Width: 595
 Flags: W
+AnchorPoint: "above" 261.97 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2909,6 +2961,7 @@ StartChar: v
 Encoding: 92952 92952 88
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2953,6 +3006,7 @@ StartChar: w
 Encoding: 92940 92940 89
 Width: 595
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2980,6 +3034,7 @@ StartChar: x
 Encoding: 92936 92936 90
 Width: 623
 Flags: W
+AnchorPoint: "above" 276.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3023,6 +3078,7 @@ StartChar: y
 Encoding: 92964 92964 91
 Width: 694
 Flags: W
+AnchorPoint: "above" 264.15 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3062,6 +3118,7 @@ StartChar: z
 Encoding: 92950 92950 92
 Width: 598
 Flags: W
+AnchorPoint: "above" 262.26 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3646,6 +3703,7 @@ StartChar: u16B34
 Encoding: 92980 92980 110
 Width: 13
 Flags: HW
+AnchorPoint: "above" -353.91 600 mark 0
 LayerCount: 2
 Fore
 Refer: 74 92976 N 1 0 0 1 2 83 2
@@ -3655,11 +3713,12 @@ EndChar
 StartChar: u16B1A
 Encoding: 92954 92954 111
 Width: 758
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 92 92950 N 1 0 0 1 160 0 2
 Refer: 109 93019 N 1 0 0 1 0 5 2
+MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B z
 EndChar
 
 StartChar: u16B1B
@@ -3669,7 +3728,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 60 92951 N 1 0 0 1 157 0 2
-Refer: 109 93019 S 1 0 0 1 0 6 2
+Refer: 109 93019 N 1 0 0 1 0 6 2
+MultipleSubs2: "'ccmp' kaab and kaav-1" u16B5B Z
 EndChar
 EndChars
 EndSplineFont
