@@ -1257,7 +1257,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 57344 57344 36
+Encoding: 92991 92991 36
 Width: 372
 Flags: W
 LayerCount: 2
@@ -2275,7 +2275,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 57345 57345 66
+Encoding: 92990 92990 66
 Width: 314
 Flags: W
 LayerCount: 2
@@ -3266,7 +3266,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 57346 57346 96
+Encoding: 92989 92989 96
 Width: 307
 Flags: W
 LayerCount: 2
@@ -3292,7 +3292,7 @@ LayerCount: 2
 EndChar
 
 StartChar: plusminus
-Encoding: 57347 57347 98
+Encoding: 92988 92988 98
 Width: 348
 Flags: W
 LayerCount: 2
